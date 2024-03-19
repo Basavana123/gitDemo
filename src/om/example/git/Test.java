@@ -1,5 +1,5 @@
 package om.example.git;
 
 public class Test {
-	//f1
+	//updated by f1 to f2
 }
